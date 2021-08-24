@@ -1,5 +1,5 @@
 # Trading Bot
-This program simulates how fish behave (flock) in large groups, how they run from predators, avoid obstacles, borders, and more.
+This program automatically trades stocks for you using python and the QuantConnect platform
 
 # Demo
 
