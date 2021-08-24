@@ -16,17 +16,17 @@ class StockAlgo(QCAlgorithm):
     def Initialize(self): 
     
         self.lookback = 10 #in days. Doesnt matter here it will change below
-        self.ceiling, self.floor = 50, 10 #set limits for lookback
+        self.ceiling, self.floor = 40, 10 #set limits for lookback
         
-        self.SetStartDate(2020,1,1) # beginning of year -> now for backtesting
-        self.SetEndDate(2020,8,22)
+        self.SetStartDate(2018,8,22) # 3 year ago -> current
+        self.SetEndDate(2021,8,22)
         
         self.SetCash(500000)        # $500,000 for backtesting
         
         self.symbol = self.AddEquity("SPY", Resolution.Daily).Symbol #using daily data. SPY tracks S&P 500
 
         self.initialStopRisk = 0.97 #allows 3% before stop order
-        self.trailingStopRisk = 0.95
+        self.trailingStopRisk = 0.91
         
 
         # schedule for daily, after 10 minutes of market being open, using function everymarketopen
