@@ -3,9 +3,7 @@ This program uses an algorithm to automatically make trades for you using python
 
 # Demo
 
-(Quality much worse here due to gif-conversion)
-
-![Demo](https://github.com/Zachhi/FlockingBoids-VS/blob/master/boidsDemo.gif)
+![Demo](https://github.com/Zachhi/TradingBot/blob/master/botDemo.gif)
 
 Watch the video here (above is only a 10 second gif): 
 https://www.youtube.com/watch?v=G17Cqs6FFl0&t=18s
