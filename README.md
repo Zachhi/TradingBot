@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=G17Cqs6FFl0&t=18s
 * This allows the algorithm to automatically adapt to changes in a market's volatility
 
 
-### Using
+# Usage
 
 * Make a profile on https://www.quantconnect.com/
 * Create a new python project and copy and paste `main.py` into the project
