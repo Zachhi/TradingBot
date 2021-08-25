@@ -1,5 +1,5 @@
 # Trading Bot
-This program automatically trades stocks for you using python and the QuantConnect platform
+This program uses an algorithm to automatically trade stocks for you using python and the QuantConnect platform
 
 # Demo
 
