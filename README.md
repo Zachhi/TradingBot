@@ -5,8 +5,7 @@ This program uses an algorithm to automatically make trades for you using python
 
 ![Demo](https://github.com/Zachhi/TradingBot/blob/master/botDemo.gif)
 
-Watch the video here (above is only a 10 second gif): 
-https://www.youtube.com/watch?v=G17Cqs6FFl0&t=18s
+https://www.youtube.com/watch?v=99FonnBm1X8
 
 # Strategy
 
